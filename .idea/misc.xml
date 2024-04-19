@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/core-api/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-command-library/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-query-library/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-editeur/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-query-join/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-command-library_with_members/pom.xml" />
+        <option value="$PROJECT_DIR$/state_stored_library/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-Command-Library-book/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-command-Library-Book-Stored/pom.xml" />
+        <option value="$PROJECT_DIR$/Ms-Query-Join-Library-Book/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1-separation Command-Query/ms-command-library/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab1-separation Command-Query/ms-query-library/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2-Materialized-Join-CQRS/ms-Command-Library-book/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2-Materialized-Join-CQRS/ms-editeur/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab2-Materialized-Join-CQRS/ms-query-join/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab3-Stored-State-MongoDB/ms-command-Library-Book-Stored/pom.xml" />
+        <option value="$PROJECT_DIR$/Lab3-Stored-State-MongoDB/Ms-Query-Join-Library-Book-Stored/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
